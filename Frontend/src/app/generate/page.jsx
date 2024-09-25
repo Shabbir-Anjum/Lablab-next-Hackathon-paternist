@@ -22,6 +22,7 @@ export default function Page() {
                     <div>
                         <button className='px-8 py-3 bg-black text-white rounded-2xl hover:bg-gray-800 transition-colors'>Generate</button>
                     </div>
+                    
                 </div>
                 <div className='col-span-1 md:p-10'>
                     <p className=' font-bold'>
